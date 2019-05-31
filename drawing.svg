@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100.0mm"
+   height="100.0mm"
+   viewBox="0 0 100.0 100.0"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="176.79378"
+     inkscape:cy="194.14761"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g832"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       spacingx="2.54"
+       spacingy="2.54"
+       empspacing="1"
+       type="xygrid"
+       units="mm"
+       id="grid816" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g822"
+     inkscape:groupmode="layer"
+     inkscape:label="[fixed] BG" />
+  <g
+     id="g824"
+     inkscape:groupmode="layer"
+     inkscape:label="Edge.Cuts"
+     style="display:inline">
+    <path
+       id="rect905"
+       d="M5.4790261 3.2117918L95.067686 3.2117918L95.067687 3.2117925L95.067687 97.800834L95.067686 97.800834L5.4790261 97.800834L5.4790254 97.800834L5.4790254 3.2117925L5.4790261 3.2117918L5.4790261 3.2117918"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.41100001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:11.89999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <g
+     id="g826"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu"
+     style="display:inline" />
+  <g
+     id="g828"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask"
+     style="display:inline">
+    <rect
+       ry="4.7470451e-07"
+       y="60.02636"
+       x="5.7869253"
+       height="18.672863"
+       width="88.972862"
+       id="rect869"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.32713738;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.89999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+  </g>
+  <g
+     id="g830"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Silk"
+     style="display:inline" />
+  <g
+     id="g832"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.32713738;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.89999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect856"
+       width="88.972862"
+       height="18.672863"
+       x="5.7869253"
+       y="3.2117918"
+       ry="4.7470451e-07" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.32713738;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.89999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect861"
+       width="88.972862"
+       height="18.672863"
+       x="5.7869253"
+       y="41.083359"
+       ry="4.7470451e-07" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.66064531;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.89999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect873"
+       width="43.989357"
+       height="18.139355"
+       x="5.603848"
+       y="79.292107"
+       ry="6.1957331e-07" />
+  </g>
+  <g
+     id="g834"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask"
+     style="display:none">
+    <rect
+       ry="4.7470451e-07"
+       y="41.083359"
+       x="5.7201076"
+       height="18.672863"
+       width="88.972862"
+       id="rect863"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.32713738;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.89999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.32713738;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.89999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect866"
+       width="88.972862"
+       height="18.672863"
+       x="5.7869248"
+       y="60.02636"
+       ry="4.7470451e-07" />
+  </g>
+  <g
+     id="g836"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Silk"
+     style="display:inline">
+    <text
+       id="text886"
+       y="86.63652"
+       x="72.59565"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         y="86.63652"
+         x="73.213013"
+         id="tspan884"
+         sodipodi:role="line">Silk without </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         y="92.810135"
+         x="72.59565"
+         sodipodi:role="line"
+         id="tspan888">Copper</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.895582"
+       y="86.63652"
+       id="text900"><tspan
+         sodipodi:role="line"
+         id="tspan896"
+         x="28.512943"
+         y="86.63652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332">Silk with </tspan><tspan
+         id="tspan898"
+         sodipodi:role="line"
+         x="27.895582"
+         y="92.810135"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332">copper</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.41100001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:11.89999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M5.4790261 3.2117918L95.067686 3.2117918L95.067687 3.2117925L95.067687 97.800834L95.067686 97.800834L5.4790261 97.800834L5.4790254 97.800834L5.4790254 3.2117925L5.4790261 3.2117918L5.4790261 3.2117918"
+       id="path872" />
+  </g>
+  <g
+     id="g838"
+     inkscape:groupmode="layer"
+     inkscape:label="Drill"
+     style="display:inline" />
+</svg>
